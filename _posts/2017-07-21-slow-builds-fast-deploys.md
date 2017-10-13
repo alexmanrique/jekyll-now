@@ -12,7 +12,7 @@ Time wasted
 
 If you multiply this time by the number of deploys per day that a developer can do that's, 801 seconds * n deploys = 801n seconds = <b>0.2225n hours</b> per day. If you multiply (considering 20 days of work by month for 12 months) 0.2225n * 20 days * 12 months = <b>53.4n hours</b> per year that are wasted because of an slow build process which is <b>6.675*n unproductive days</b> per year for this developer.
 
-![Number of days wasted]({{ "assets/plot.png" | absolute_url }})
+![Number of days wasted]({{ {{ site.baseurl }}/images/plot.png | absolute_url }})
 
 If n=15 then the number of days wasted per year is 100 :O (100/(20*12) -> <b>41%</b> of work days in a year)
 
