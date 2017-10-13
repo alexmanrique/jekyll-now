@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+My name is <a href="http://alexmanrique.com">Alex Manrique</a> and I'm a software developer with 8+ years of experience in the industry. I'm specialized in backend development specially with the Java programming language but I have done things also in PHP, Scala and now I'm learning Python too. I'm interested in all the stages of software development process from the conception of the idea until the release and the monitoring in production of the software solution. 
