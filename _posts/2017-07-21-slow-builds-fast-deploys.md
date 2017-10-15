@@ -4,6 +4,8 @@ title:  "Slow builds and fast deploys"
 date:   2017-07-20 20:13:53 +0200
 categories: development
 comments: true
+lang: en
+ref: builds
 ---
 
 What would you think if your <a href="https://en.wikipedia.org/wiki/Software_developer">developers</a> have to wait for a long time before trying the code changes that they have just coded? I remember 5 years ago a project that the <a href="https://en.wikipedia.org/wiki/Software_build">build</a> and <a href="https://en.wikipedia.org/wiki/Software_deployment">deploy</a> of the application spent <b>13 minutes</b> and <b>21 seconds</b>. That's <b>801 seconds</b>. (I wrote it in my diary that's why I remember it)  
