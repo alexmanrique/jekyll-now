@@ -40,9 +40,9 @@ Si la compilación pasa mucho tiempo posiblemente sea porque tienes que compilar
 Ahorrando tiempo 
 ----------------
 
-Todo lo que ahorra tiempo, es algo bueno. Es imposible reducir el tiempo de compilación a 0 segundos, pero hacer que la compilación y el despliegue sean rápidos debe ser algo a tener en cuenta mientras trabaja en el desarrollo de software.
+Todo lo que ahorra tiempo, es algo bueno. Es imposible reducir el tiempo de compilación a 0 segundos, pero hacer que la compilación y el despliegue sean rápidos debe ser algo a tener en cuenta mientras se trabaja en el desarrollo de software.
 
-En mi equipo tengo que desarrollar software en diferentes módulos de software y tratamos de mantenerlo simple y rápido para construir e implementar. Una de las cosas que hicimos fue crear un perfil <a href="https://en.wikipedia.org/wiki/Apache_Maven">maven</a> que cada vez que se realiza una instalación limpia localmente, copia el oído automáticamente a la carpeta de despliegue de <a href="https://es.wikipedia.org/wiki/WildFly#Servidor_de_aplicaciones_JBoss">JBoss</a> utilizando la JBOSS_HOME variable de entorno y utilizando el complemento <a href="http://maven.apache.org/plugins/maven-antrun-plugin/">maven-antrun-plugin</a>
+En mi equipo tengo que desarrollar software en diferentes módulos de software y tratamos de hacer que la compilación y el despliegue sea simple y rápido. Una de las cosas que hicimos fue crear un perfil <a href="https://en.wikipedia.org/wiki/Apache_Maven">maven</a> que cada vez que se realiza una instalación limpia localmente, copia el oído automáticamente a la carpeta de despliegue de <a href="https://es.wikipedia.org/wiki/WildFly#Servidor_de_aplicaciones_JBoss">JBoss</a> utilizando la JBOSS_HOME variable de entorno y utilizando el complemento <a href="http://maven.apache.org/plugins/maven-antrun-plugin/">maven-antrun-plugin</a>
 
 {% highlight xml %}
 
