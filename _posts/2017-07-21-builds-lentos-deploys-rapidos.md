@@ -74,7 +74,7 @@ En mi equipo tengo que desarrollar software en diferentes módulos de software y
 
 {% endhighlight %}
 
-Esto me ahorra tiempo a mi (y para los otros desarrolladores que se desarrollan en el mismo módulo) cada vez que tenemos que desplegar una nueva versión de un archivo <a href="https://en.wikipedia.org/wiki/EAR_(file_format)">ear</a> en mi servidor de aplicaciones <a href="https://es.wikipedia.org/wiki/WildFly#Servidor_de_aplicaciones_JBoss">JBoss</a> local . De lo contrario, tendria que copiar manualmente el fichero esar resultante de la compilación en la carpeta de despliegues de JBoss cada vez.
+Esto me ahorra tiempo a mi (y para los otros desarrolladores que se desarrollan en el mismo módulo) cada vez que tenemos que desplegar una nueva versión de un archivo <a href="https://en.wikipedia.org/wiki/EAR_(file_format)">ear</a> en mi servidor de aplicaciones <a href="https://es.wikipedia.org/wiki/WildFly#Servidor_de_aplicaciones_JBoss">JBoss</a> local . De lo contrario, tendria que copiar manualmente el fichero `ear` resultante de la compilación en la carpeta de `deployment` de JBoss cada vez.
 
 Conclusión 
 ----------------
