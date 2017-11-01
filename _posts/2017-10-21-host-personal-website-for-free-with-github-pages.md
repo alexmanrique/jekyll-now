@@ -38,7 +38,7 @@ Urls of your new blog
 -----------------------------
 After forking the original repository I had it created in <a href="https://github.com/alexmanrique/blog">https://github.com/alexmanrique/blog</a> and also ready and available to read for people in <a href="https://alexmanrique.github.io/blog">https://alexmanrique.github.io/blog</a> where you are able to access to blog index with a list of posts. 
 
-So, everytime that you create a new repository in github you will have it available to modify files in https://github.com/username/repository_name` and available for reading in `https://username.github.io/repository_name` 
+So, everytime that you create a new repository in github you will have it available to modify files in `https://github.com/username/repository_name` and available for reading in `https://username.github.io/repository_name` 
 
 Bonus - Changing the url of your blog
 -------------------------------
