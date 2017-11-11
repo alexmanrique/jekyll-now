@@ -47,7 +47,7 @@ Conclusion
 --------------------- 
 Retrospectives are a really good tool to learn from the past projects, situations where the team has identified problems that should be addressed. It also helps engage the members of the team becuase they can participate and express their opinions about the team performance and feel that their voice is important. I definitely encourage teams to practise retrospectives because is a good way to check the health of the team and come up with actions to improve the performance of it.
 
-(Picture of the last retrospective which I participated in) 
+(Picture of the last retrospective which I was involved) 
 
 ![Retrospective]({{ site.baseurl }}/images/retrospective.png)
 
