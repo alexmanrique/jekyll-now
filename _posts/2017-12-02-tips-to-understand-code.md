@@ -16,7 +16,7 @@ The first thing to do is to clone the repository in your computer and open it wi
 
 2 - Execute the application from an entry point
 ----------------------------------------------------
-The next thing to do is to execute the application from its entry point. Find some main() or some front end that let’s you execute the program and interact with it. It’s important to ensure that the application that you are testing is not changing something or interacting with some service in production. Developers that have developed the application should have guaranteed that you don’t change nothing accidentally having the keys or passwords from production environment in the application. At least if the application points to production it must not modify anything and and ensure that is in read-only mode. 
+The next thing to do is to execute the application from its entry point. Find some main() or some front end that let’s you execute the program and interact with it. It’s important to ensure that the application that you are testing is not changing something or interacting with some service in production. Developers that have developed the application should have guaranteed that you don’t change nothing accidentally having the keys or passwords from production environment in the application. At least if the application points to production it must not modify anything and ensure that is in read-only mode. 
 With the execution of the application you can see the results of an execution and become familiar with the functionalities. This way you can see the standard output, the logs or the results in a front end page. 
 
 3 - Debug the code of the application
@@ -25,7 +25,7 @@ Something useful is to debug the application. This allows you to execute the app
  
 4 - Find usages of the methods and classes
 ----------------------------------------------------
-All modern IDE’s allow you to find the usages of a method that you have in a class. Once you check all the usages you get a list of places in the code the use this method or class. You can see the classes that use this method, you can see the where those classes are created as instances… you can get an idea of the usages of this method and see how is used. Something useful that I use is an option called call hierarchy of a method that is available in Intellij idea https://www.jetbrains.com/help/idea/building-call-hierarchy.html you get a recursive tree view of the classes that use that method and you can navigate easily.
+All modern IDE’s allow you to find the usages of a method that you have in a class. Once you check all the usages you get a list of places in the code the use this method or class. You can see the classes that use this method, you can see where those classes are created as instances… you can get an idea of the usages of this method and see how is used. Something useful that I use is an option called call hierarchy of a method that is available in Intellij idea https://www.jetbrains.com/help/idea/building-call-hierarchy.html you get a recursive tree view of the classes that use that method and you can navigate easily.
 
 5 - Execute and read unit tests
 ----------------------------------------------------
@@ -33,7 +33,7 @@ Good code is supported by unit tests. It’s a way to ensure that your functiona
 
 6 - Check commit history
 ----------------------------------------------------
-You can see the commits of a class and check the differences of a previous commit, or read the commit description to get more information of the code that has been written. In the commits you can find mercurial/git users that have committed those changes and is possible that you can contact them to get more information about a particular part of the code. They can provide you with useful information like documentation, powerpoint or just a short talk of the project and they can give you more context about it.
+You can see the commits of a class and check the differences of a previous commit, or read the commit description to get more information of the code that has been written. In the commits you can find mercurial/git users that have committed those changes and is possible that you can contact them to get more information about a particular part of the code. They can provide you with useful information like documentation, powerpoint or just a short talk of the project that can give you more context about it.
 
 7 - Look for the Jira ticket
 -----------------------------------------------------
@@ -69,7 +69,7 @@ If you have the opportunity to talk with the person that has written this piece 
 
 15 - Comment the code with other peers
 -----------------------------------------------------
-If you are working with more senior developers than you maybe you can have a conversation of the code that you are reading. 4 eyes see more things than 2 and it’s a good way to interact with other mates. Maybe those mates have worked already with this code and are able to help you to understand the code. Try to avoid interrupting, if they are focused with an specific task and ask if they are available to speak about it. Show them that you spend time trying to understand it by your own.
+If you are working with more senior developers than you maybe you can have a conversation of the code that you are reading. 4 eyes see more things than 2 and it’s a good way to interact with other mates. Maybe those mates have worked already with this code and are able to help you to understand the code. Try to avoid interrupting, if they are focused with an specific task ask first if they are available to speak about it. Show them that you spent time trying to understand it by your own.
 
 Conclusion
 -----------------------------------------------------
