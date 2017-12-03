@@ -10,6 +10,7 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/font-awesome.min.css" />
 
      <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}{% for post in posts %}
@@ -64,5 +65,7 @@
     </div>
 
     {% include analytics.html %}
+	{% include share-page.html %}
+	
   </body>
 </html>
