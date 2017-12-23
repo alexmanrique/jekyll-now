@@ -65,7 +65,7 @@ Reading other examples of code related with the technology that you are using ca
 
 14 - Talk with the owners of the repository
 -----------------------------------------------------
-If you have the opportunity to talk with the person that has written this piece of code is a good way also to understand it. What I do before asking the person that wrote this code is to read it by myself and If I get stuck then I answer. I think if you do it this way when you talk with that person he will see that you are interested in the code that he has written and he will be more motivated to help you because he will see that you have bothered yourself in diving with the code.
+If you have the opportunity to talk with the person that has written this piece of code is a good way also to understand it. What I do before asking the person that wrote this code is to read it by myself and If I get stuck then I ask. I think if you do it this way when you talk with that person he will see that you are interested in the code that he has written and he will be more motivated to help you because he will see that you have bothered yourself in diving with the code.
 
 15 - Comment the code with other peers
 -----------------------------------------------------
