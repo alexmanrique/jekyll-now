@@ -19,7 +19,7 @@ It's important to give good names to your variables, method names and classes. T
 2 - Avoid large classes, keep number of imports low.
 ---------------------------------
 If you have a lot of imports in a class it means that it has a lot of dependencies and is not cohesive enough, your class has to do one thing also and has to be short.
-A class with more than 200 lines is a candidate to split in two or more classes. If the class does more than one thing, like we have commented with methods it's not a good sign.
+A class with more than 200 lines is a candidate to split in two or more classes. If the class does more than one thing it's not a good sign.
 
 3 - Keep methods short.
 ---------------------------------
