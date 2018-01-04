@@ -61,7 +61,6 @@ Conclusion
 This is my list of things to remember when writing code and keep it clean (there are more). I definetly recommend Clean code of Uncle Bob where he explains how to write clean code with a lot of examples (A must for any software developer) 
 What is your list? leave a comment below if you have another tip that you feel important.
 
-![Less code]({{ site.baseurl }}/images/quality.png)
 
 
 
