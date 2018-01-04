@@ -59,7 +59,7 @@ Less code, means less code to mantain and less possible mistakes and more easy t
 Conclusion
 --------------------
 This is my list of things to remember when writing code and keep it clean (there are more). I definetly recommend Clean code of Uncle Bob where he explains how to write clean code with a lot of examples (A must for any software developer) 
-What is your list? leave a comment below if you have another tip that you feel important.
+What is your list? leave a comment below if you have another tip that you feel that is important.
 
 
 
