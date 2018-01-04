@@ -8,8 +8,7 @@ lang: en
 ref: clean
 ---
 
-In this post I will go through the most useful rules that I follow to write clean code. You would wonder why it's important to write clean code, well, for the most part of the time we are reading code from other people so when we write code we have to think that our code will be read by future developers that should be able your intentions just reading your code. See the following links https://www.goodreads.com/quotes/835238-indeed-the-ratio-of-time-spent-reading-versus-writing-is
-https://softwareengineering.stackexchange.com/questions/200812/is-writing-software-easier-than-reading-and-understanding-it-from-scratch
+In this post I will go through the most useful rules that I follow to write clean code. You would wonder why it's important to write clean code, well, for the most part of the time we are reading code from other people so when we write code we have to think that our code will be read by future developers that should be able your intentions just reading your code.
 
 Maybe you are not in the same team, company when other people read your code so it's important to write it carefully. Sometimes it's better to spend some extra time writing the code than deliver it fast and bad. It's like any other activity that requires effort and    
 
