@@ -50,7 +50,6 @@ If your code has hardcoded configuration values is also a bad smell. URL's of AP
 9 - Avoid data clump.
 ---------------------------------
 Pass a lot of parameters to a method can be a sign of poor design. It can be refactored grouping the different variables together into a single object rather than passing a lot of parameters to a method.
-https://en.wikipedia.org/wiki/Data_Clump_(Code_Smell)
 
 10 - Less code = less bugs
 ---------------------------------
