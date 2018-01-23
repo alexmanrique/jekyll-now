@@ -52,7 +52,7 @@ In the source code of your application you should add calls to Metrics library e
 ----------------------------------
 
 In the following pseudocode we can see how to code the start of a timer and the stop of it.
-One important thing to notice is that `MetricsRegistry is the container of all the application metrics. It should be considered to integrate in the lifecycle of your application using <a href="https://en.wikipedia.org/wiki/Dependency_injection">dependency injection</a>, but <a href="https://www.caveofprogramming.com/java/java-for-beginners-static-variables-what-are-they.html">static</a> can be used also.
+One important thing to notice is that `MetricsRegistry` is the container of all the application metrics. It should be considered to integrate in the lifecycle of your application using <a href="https://en.wikipedia.org/wiki/Dependency_injection">dependency injection</a>, but <a href="https://www.caveofprogramming.com/java/java-for-beginners-static-variables-what-are-they.html">static</a> can be used also.
 
 {% highlight java %}
 
