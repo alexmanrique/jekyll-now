@@ -6,6 +6,7 @@ categories: development
 comments: true
 lang: en
 ref: design
+tags: java book microservices
 ---
 
 My kindle paperwhite says in the beginning of the book that the time to read this book is 2 hours and 55 minutes. Time spent reading was worth it. 
