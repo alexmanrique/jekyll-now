@@ -6,6 +6,7 @@ categories: development
 comments: true
 lang: en
 ref: githubpages
+tags: fork url blog
 ---
 
 You can have your own personal website for free without having to pay any hosting services monthly or annualy. The blog that you are reading the content is hosted in github pages. 
