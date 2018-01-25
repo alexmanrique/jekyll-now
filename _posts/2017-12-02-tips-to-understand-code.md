@@ -6,6 +6,7 @@ categories: development
 comments: true
 lang: en
 ref: code
+tags: code
 ---
 
 The following list contains my personal tips for reading code of other developers. We spend a lot of time reading code of other people and knowing how to do it in an efficient way it's important. This tips work for me but maybe you have other techniques that work better, feel free to write a comment below. 
