@@ -6,6 +6,7 @@ categories: development
 comments: true
 lang: en
 ref: retrospectives
+tags: agile
 ---
 
 Look back in the last month and see what you did, which projects you participated in, which meetings you attended, how are the dinamics inside your team, what is the relationship with other stakeholders, what was expected from you and how you did perform.
