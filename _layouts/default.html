@@ -58,6 +58,13 @@
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
+	 
+<span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
 
     <div class="wrapper-footer">
       <div class="container">
