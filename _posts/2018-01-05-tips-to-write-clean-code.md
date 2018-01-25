@@ -6,6 +6,7 @@ categories: development
 comments: true
 lang: en
 ref: clean
+tags: clean code 
 ---
 
 In this post I will go through the most useful rules that I follow to write clean code. You would wonder why it's important to write clean code, well, for the most part of the time we are reading code from other people so when we write code we have to think that our code will be read by future developers that should be able to understand your intentions just reading your code.
