@@ -33,7 +33,7 @@ The knowledge that others will be examining their work naturally drives people t
 
 Code quality
 --------------------------------
-In another post I did a [list]({{ site.baseurl }}{% post_url 2018-01-05-tips-to-write-clean-code %}) of things that I use to write cleaner code. It's good to internalize some list of code quality principles to use them automatically. When you write code or read code from other people you will naturally thing in your list of principles. I.e: an important design principle to thing in could be single responsibility principle (SRP). If you follow this principle your class or your methods should do one single thing (and do it well). This principle will force you to ‘break’ classes and it will make your code more understandable.  
+In another post I did a [list]({{ site.baseurl }}{% post_url 2018-01-05-tips-to-write-clean-code %}) of things that I use to write cleaner code. It's good to internalize some list of code quality principles to use them automatically. When you write code or read code from other people you will naturally think in your list of principles. I.e: an important design principle to think in could be single responsibility principle (SRP). If you follow this principle your class or your methods should do one single thing (and do it well). This principle will force you to ‘break’ classes and it will make your code more understandable.  
 
 Establish a process to fix defects 
 -------------------------------
