@@ -127,7 +127,7 @@ new BankAccountController(new PaymentServiceImpl());
 ```
 
 
-In the unit test you will be able to mock the implementation of `PaymentServiceImpl` and use `when` methods that allow you to control the response of a certain method. 
+In the unit test you will be able to <a href="http://site.mockito.org/">mock</a> the implementation of `PaymentServiceImpl` and use `when` methods that allow you to control the response of a certain method. 
 
 ```java
 
