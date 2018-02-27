@@ -277,7 +277,7 @@ Using dependency injection in your code is a better way to write your code witho
 It helps you to write better unit tests because you can mock the dependencies and test a single class 
 per unit test.
 
-I recommend <a href="https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627"> Growing object-oriented software guided by tests</a> 
+I recommend <a target="_blank" href="https://www.amazon.com/gp/product/0321503627/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321503627&linkCode=as2&tag=de8blg6-20&linkId=9241dfe0f4f2811c3d7633aca77e6234">Growing Object-Oriented Software, Guided by Tests</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=de8blg6-20&l=am2&o=1&a=0321503627" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> 
 where it explains how you can make your software more object oriented using unit tests and supports the idea that if 
 your code is difficult to test it means that it must be improved.
 
