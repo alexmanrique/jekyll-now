@@ -213,26 +213,11 @@ public class PaymentModule extends AbstractModule {
 
 ```java
 
-public class BankAccountModule extends AbstractModule {
-  
-  @Override 
-  protected void configure() {
-   bind(BankAccountService.class).to(BankAccountController.class);
-  }
-
-}
-
-```
-
-
-
-```java
-
 public static void main(String[] args) {
 
-    Injector injector = Guice.createInjector(new PaymentModule(), new BankAccountModule());
+    Injector injector = Guice.createInjector(new PaymentModule());
 
-    BankAccountService bankAccountService = injector.getInstance(BankAccountService.class);
+    BankAccountController bankAccountController = injector.getInstance(BankAccountController.class);
    
   }
 
@@ -294,7 +279,7 @@ per unit test.
 
 I recommend <a href="https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627"> Growing object-oriented software guided by tests</a> 
 where it explains how you can make your software more object oriented using unit tests and supports the idea that if 
-your code is difficult to test it means that it has to be improved.
+your code is difficult to test it means that it must be improved.
 
 
 
