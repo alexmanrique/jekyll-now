@@ -28,7 +28,7 @@ In the code below `BankAccountController` uses `PaymentService` in the `transfer
 
 ```java
 
-public class BankAccountController implements BankAccountService {
+public class BankAccountController {
 	
 public BankAccountController(){
 
@@ -93,7 +93,7 @@ Another approach can be the following code:
 
 ```java
 
-public class BankAccountController implements BankAccountService {
+public class BankAccountController {
 
 private final PaymentService paymentService;
 
@@ -178,7 +178,7 @@ Let's see the third approach:
 
 ```java
 
-public class BankAccountController implements BankAccountService {
+public class BankAccountController {
 
 private final PaymentService paymentService;
 
